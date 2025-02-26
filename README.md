@@ -16,7 +16,7 @@ Cadastro de novos itens (Nome, Sabor, Valor, Quantidade)
 
 ---
 
-##Estrutura do Projeto
+## Estrutura do Projeto
 
 SORVETERIA_WEB/
 │️── model/
@@ -28,7 +28,7 @@ SORVETERIA_WEB/
 │️── requirements.txt      # Dependências do projeto
 │️── README.md            # Documentação do projeto
 
-##Como Instalar e Rodar o Projeto
+## Como Instalar e Rodar o Projeto
 
 1.Clonar o Repositório
 
@@ -51,7 +51,7 @@ streamlit run app.py
 
 Isso abrirá a interface no navegador automaticamente. 
 
-##Contribuição
+## Contribuição
 
 Sinta-se à vontade para abrir issues e pull requests para contribuir com melhorias no projeto!
 
